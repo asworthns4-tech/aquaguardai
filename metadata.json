@@ -1,0 +1,6 @@
+{
+  "name": "AquaGuard AI — The Living Planet",
+  "description": "Interactive 3D science exhibition exploring planetary water systems, Earth hydrology, smart cities, underground aquifers, science simulations, and conservation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
